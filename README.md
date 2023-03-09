@@ -25,7 +25,7 @@ Output variable
 
 12 - quality (score between 0 and 10): I have catogorized and labeled as "is_lower_average".
 
-# Some Screenshot
+# Screenshots
 
 Number of data according to different qualities.
 
